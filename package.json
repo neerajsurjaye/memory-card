@@ -11,7 +11,7 @@
     "react-scripts": "4.0.1",
     "web-vitals": "^0.2.4"
   },
-  "homepage": "http://neerajsurjaye.github.io/project-cv",
+  "homepage": "http://neerajsurjaye.github.io/memory-card",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
